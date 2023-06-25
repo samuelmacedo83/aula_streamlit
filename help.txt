@@ -1,0 +1,1 @@
+streamlit run /workspaces/aula_streamlit/main.py --server.enableCORS false --server.enableXsrfProtection false
